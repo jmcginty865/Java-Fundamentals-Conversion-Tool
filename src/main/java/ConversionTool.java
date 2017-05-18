@@ -62,7 +62,7 @@ public class ConversionTool {
         if(finalConversion < 0){
             return 0;
         }
-        
+
         return finalConversion;
     }
 
